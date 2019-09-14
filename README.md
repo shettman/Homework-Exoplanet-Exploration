@@ -3,6 +3,7 @@
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
 Do you know what an Exoplanet is?
+
 An Exoplanet (Extrasolar planet) is a planet that exists outside
 our solar system. Many exoplanets have been discovered over the
 years by Nasa’s Kepler telescope. Scientists discovered a very
@@ -13,6 +14,7 @@ flux (The light intensity). That’s enough evidence to say that there
 is an orbiting body near the star. Further studies of the candidate
 system capture light at a different wavelength, could solidify the
 belief or confirm the existence of these orbiting bodies.
+
 
 
 
