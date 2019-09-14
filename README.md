@@ -22,11 +22,11 @@ Random Forest is better than Support Vector Machine, even without GridSearchCV.
 ![](Images/1.PNG)
 
 
-![](Images/2.PNG)
+![](Images/3.PNG)
 
 -------------------------------------------------------------------------------
 
-![](Images/3.PNG)
+![](Images/2.PNG)
 
 
 ![](Images/4.PNG)
