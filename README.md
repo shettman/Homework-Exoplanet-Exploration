@@ -16,7 +16,8 @@ system capture light at a different wavelength, could solidify the
 belief or confirm the existence of these orbiting bodies.
 
 -------------------------------------------------------------------------------
-Summary
+Summary:
+
 Random Forest is better than Support Vector Machine, even without GridSearchCV.
 
 -------------------------------------------------------------------------------
