@@ -19,12 +19,16 @@ belief or confirm the existence of these orbiting bodies.
 Summary
 Random Forest is better than Support Vector Machine, even without GridSearchCV.
 
+-------------------------------------------------------------------------------
+# Support Vector Machine
+
 ![](Images/1.PNG)
 
 
 ![](Images/3.PNG)
 
 -------------------------------------------------------------------------------
+# Random Forest
 
 ![](Images/2.PNG)
 
